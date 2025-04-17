@@ -1,0 +1,65 @@
+Seed,Team,Region,AdjO,AdjD,Reb/Game
+1,Alabama,South,115.5,88.2,29.6
+16,Texas A&M Corpus Chris,South,107.1,107.6,23
+8,Maryland,South,113.5,95.6,22.3
+9,West Virginia,South,116.9,98.1,21.5
+5,San Diego St.,South,110.8,90.4,23.8
+12,Charleston,South,110.6,98.7,25.4
+4,Virginia,South,110.8,94.5,22.7
+13,Furman,South,113.5,105.5,23.5
+6,Creighton,South,115,93.2,27.2
+11,N.C. State,South,113.6,100,24.1
+3,Baylor,South,121.3,101.6,20.3
+14,UC Santa Barbara,South,110.3,104.6,22
+7,Missouri,South,118.3,105.3,19.9
+10,Utah St.,South,116.3,98.9,25.9
+2,Arizona,South,118.2,96.3,27.3
+15,Princeton,South,109.5,101.5,26.5
+1,Houston,Midwest,118.1,90.4,24.4
+16,Northern Kentucky,Midwest,102.8,102.2,19.9
+8,Iowa,Midwest,120,104.6,23.2
+9,Auburn,Midwest,112.5,95.7,23
+5,Miami FL,Midwest,119.1,101.2,23.1
+12,Drake,Midwest,108.4,96.5,26
+4,Indiana,Midwest,114.2,97.2,25.2
+13,Kent St.,Midwest,107.7,96.5,22.5
+6,Iowa St.,Midwest,108.1,91,20.8
+11,Pittsburgh,Midwest,114.2,101.3,24.6
+3,Xavier,Midwest,118.5,98.6,26
+14,Kennesaw St.,Midwest,105.9,101.8,23.3
+7,Texas A&M,Midwest,113.7,97,23
+10,Penn St.,Midwest,117.2,101.1,24.6
+2,Texas,Midwest,116.5,92.1,23.1
+15,Colgate,Midwest,112.7,107.5,24.1
+1,Kansas,West,114.6,91.8,24.6
+16,Howard,West,103.5,106.9,22.3
+8,Arkansas,West,112.1,94,23.4
+9,Illinois,West,111.1,94.9,25.4
+5,Saint Mary's,West,112.6,91.4,23.2
+12,VCU,West,106.6,93.8,22.4
+4,Connecticut,West,120.8,90.9,24.9
+13,Iona,West,110.7,99.4,23
+6,TCU,West,112.1,94.3,23
+11,Arizona St.,West,109,95.8,23.7
+3,Gonzaga,West,122.3,99.3,24.9
+14,Grand Canyon,West,111.9,106.1,24
+7,Northwestern,West,109.9,94.3,23
+10,Boise St.,West,110.9,95.1,25.3
+2,UCLA,West,115.2,88,22.2
+15,UNC Asheville,West,104,102.7,24.1
+1,Purdue,East,117.7,94.5,25.2
+16,Fairleigh Dickinson,East,106.7,115.1,20.8
+8,Memphis,East,114.6,96.1,23.5
+9,Florida Atlantic,East,115.1,95.7,26.1
+5,Duke,East,113.2,93.9,25
+12,Oral Roberts,East,113.9,102.2,25.9
+4,Tennessee,East,111.3,87.5,24
+13,Louisiana,East,111.4,102.9,23.1
+6,Kentucky,East,116.2,98.8,24.6
+11,Providence,East,116.2,100.8,24.5
+3,Kansas St.,East,113.5,95,23
+14,Montana St.,East,105.1,99.6,21.7
+7,Michigan St.,East,114.2,96.6,24.9
+10,USC,East,112.3,97.5,24.3
+2,Marquette,East,119.1,96.7,21.2
+15,Vermont,East,109.5,104.2,23.3
